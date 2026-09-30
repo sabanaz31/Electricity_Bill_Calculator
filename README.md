@@ -48,3 +48,7 @@ Electricity_Bill_Calculator_Simple/
 └── PROJECT_STATEMENT.md
 
 ##SCREENSHOTS
+![successful output](successful_output.png)
+
+##VALIDATION TEST
+![validation test](validation_test.png)
