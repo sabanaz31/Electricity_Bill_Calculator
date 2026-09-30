@@ -35,7 +35,7 @@ The following rates are used for this academic project:
 
 ## Project Structure
 
-text
+```text
 Electricity_Bill_Calculator_Simple/
 │
 ├── main.py
@@ -46,7 +46,7 @@ Electricity_Bill_Calculator_Simple/
 ├── bill.py
 ├── README.md
 └── PROJECT_STATEMENT.md
-
+```
 ## Screenshots
 ![successful output](successful_output.png)
 
